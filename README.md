@@ -38,6 +38,7 @@ streamlit run app.py
 3. Click Save questions.
 4. In Single grading, upload one student answer file and click Evaluate.
 5. In Bulk grading, upload multiple student answer files and click Evaluate all.
+6. Create a folder named ```/book``` and put the book there
 
 ## Notes
 
